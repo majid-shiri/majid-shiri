@@ -5,9 +5,8 @@
 
 I don't want to waste your time but in brief summary,I work as a Full Stack Developer. I am an experienced Research Assistant with a demonstrated history of working in the  web industry.Strong research professional with a bachelor's degree in software engineering from Shiraz University, Iran
 
+<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e2990e116770475.6068beff4681b.gif" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e2990e116770475.6068beff4681b.gif 500w" sizes="(max-width: 500px) 100vw, 500px" alt="animation" loading="lazy">
 
- <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e2990e116770475.6068beff4681b.gif"  height = "60%" width = "60%"/>
- 
 ### Skills
 
 <p align="left">
