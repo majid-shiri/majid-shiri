@@ -6,7 +6,7 @@
 I don't want to waste your time but in brief summary,I work as a Full Stack Developer. I am an experienced Research Assistant with a demonstrated history of working in the  web industry.Strong research professional with a bachelor's degree in software engineering from Shiraz University, Iran
 
 
- <img alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e2990e116770475.6068beff4681b.gif" height = "50%" width = "50%"/>
+ <img align="center" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e2990e116770475.6068beff4681b.gif"/>
  
 ### Skills
 
