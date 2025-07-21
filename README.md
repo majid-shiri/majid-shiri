@@ -1,54 +1,72 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=367&height=25&lines=Hi+There%F0%9F%91%8B;%F0%9F%8C%B1This+Is+Majid+Shiri;Full+Stack+Developer;Nice+To+Meet+You+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+<!-- PROFILE README for majid-shiri -->
 
-![](https://komarev.com/ghpvc/?username=majid-shiri&label=PROFILE+VIEWS&style=flat-square)
-************
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B;I'm+Majid+Shiri;Full+Stack+Developer+%26+ICT+Manager;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=majid-shiri&label=Profile+Views&color=green&style=flat-square" alt="Profile Views" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer with experience as a Research Assistant in the web industry. I hold a bachelor's degree in Software Engineering from Shiraz University, Iran. My focus is on building efficient, scalable web applications with clean code.
+Hi! I'm **Majid Shiri**, a Full Stack Developer and ICT Head based in Iran 🇮🇷.
 
-<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e2990e116770475.6068beff4681b.gif" alt="developer animation" width="500">
+- 🎓 B.Sc. in Software Engineering from Shiraz University
+- 💼 Leading technical teams and architecting enterprise software
+- 🔒 Passionate about clean code, secure systems, and scalable apps
+- 🌐 Always building something that makes life simpler
 
-## 🛠 Technical Skills
+---
 
-### Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+## 🚀 Tech Stack
+
+### 💻 Languages
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+
+### 🧰 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![Yii2](https://img.shields.io/badge/-Yii2-8DC63F?logo=yii&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+
+### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://ir.linkedin.com/in/majid-shiri-984998138" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shiri.m.kjppc@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
 </p>
 
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" alt="yii" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-</p>
-
-### Other Tools
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majid-shiri&show_icons=true&theme=radical" alt="Majid's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majid-shiri&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ir.linkedin.com/in/majid-shiri-984998138?trk=people-guest_people_search-card)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiri.m.kjppc@gmail.com)
+---
+01111011 01001101 01010011 01001000 00101110
+---
+```terminal
+  ███╗    ███╗   ███╗    ███████╗    ██╗  ██╗           ███╗
+  ██╔╝    ████╗ ████║    ██╔════╝    ██║  ██║           ╚██║
+██║       ██╔████╔██║    ███████╗    ███████║              ██║
+  ██║     ██║╚██╔╝██║    ╚════██║    ██╔══██║            ██║
+  ███╗    ██║ ╚═╝ ██║    ███████║    ██║  ██║    ██╗    ███║
+  ╚══╝    ╚═╝     ╚═╝    ╚══════╝    ╚═╝  ╚═╝    ╚═╝    ╚══╝
