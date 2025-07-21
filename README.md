@@ -21,7 +21,7 @@ I'm a passionate Full Stack Developer with experience as a Research Assistant in
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg)" alt="laravel" width="45" eight="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" alt="yii" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
